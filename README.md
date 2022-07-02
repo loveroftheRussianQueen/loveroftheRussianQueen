@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 My name is Alim
 
 * 😊 I'm responsible, motivated, easy-to-learn React Frontend Developer open to work now.
 * 😍 I like programming because it's interesting for me to create something, to make user interface live and friendly.
