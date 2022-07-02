@@ -6,6 +6,8 @@
 - 🔭 I am currently looking for a job as a Front-end developer.
 - 👯 I will be glad to share my experience and learn from other developers.
 - 🇬🇧 I also have a proficiency in English so I can work with foreign partners.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+### My stack
+
+
 
