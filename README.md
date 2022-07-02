@@ -16,7 +16,7 @@
 ![TS](/svg/TS.svg)
 ![Git](/svg/git.svg)
 
-## My contacts
+## My contacts :iphone:
 [<img src="./svg/telegram.svg">](https://t.me/solemn_lament)
 [<img src="./svg/gmail.svg" width="90px" height="90px">](mailto:alim.budaev.2000@gmail.com)
 
