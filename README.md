@@ -7,7 +7,7 @@
 * 👯 I will be glad to share my experience and learn from other developers.
 * 🇬🇧 I also have a proficiency in English so I can work with foreign partners.
 
-## My stack
+## My stack :rocket:
 ![HTML](/svg/html-5.svg)
 ![CSS](/svg/css3.svg)
 ![JS](/svg/JS.svg)
@@ -16,7 +16,7 @@
 ![TS](/svg/TS.svg)
 ![Git](/svg/git.svg)
 
-## MY CONTACTS
+## My contacts
 [<img src="./svg/telegram.svg">](https://t.me/solemn_lament)
 [<img src="./svg/gmail.svg" width="90px" height="90px">](mailto:alim.budaev.2000@gmail.com)
 
